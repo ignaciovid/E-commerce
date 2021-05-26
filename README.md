@@ -121,16 +121,16 @@ Los usuarios administradores pueden manejar el sitio, los productos que se lista
 
 ## Capturas del Ecommerce
  - Iniciar sesión: 
- ![alt text](./readmeImages/0.jpeg "Inicio de sesión")
+ ![login](https://user-images.githubusercontent.com/65375969/119589949-3bc83a80-bdaa-11eb-9b46-1820b22bb518.png)
 
  - Registrarse:
-![alt text](./readmeImages/3.jpeg "Registrarse")
+![register](https://user-images.githubusercontent.com/65375969/119589954-3f5bc180-bdaa-11eb-994c-d67491c80cad.png)
 
 - Todos los productos:
-![alt text](./readmeImages/2.jpeg "Productos")
+![allproducts](https://user-images.githubusercontent.com/65375969/119589977-47b3fc80-bdaa-11eb-9713-e5c4469ef65a.png)
 
  - Carrito:
-![alt text](./readmeImages/1.jpeg "Carrito")
+![carrito](https://user-images.githubusercontent.com/65375969/119589962-4256b200-bdaa-11eb-9e8e-432eb11b2879.png)
 
 ### Nosotros
 Somos un grupo de 5 [Soy Henry](https://www.soyhenry.com/) estudiantes. Aquí están sus perfiles: 
